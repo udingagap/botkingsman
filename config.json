@@ -1,9 +1,9 @@
-(ini hapus aja , Jangan lupa subscribe lemes aku cuk)
+
 
 
 {
-	"ip":"vanevo.aternos.me",
-	"port": "25565",
-	"name": "boboserver",
+	"ip":"kingsmansmpp.aternos.me",
+	"port": "39654",
+	"name": "bot",
 	"auto-night-skip":"false"
 }
